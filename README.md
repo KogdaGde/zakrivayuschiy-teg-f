@@ -1,3 +1,3 @@
 zakrivayuschiy-teg-f
 
-Проект "Закрывающий тэг" https://github.com/KogdaGde/ono-tebe-nado.git
+Проект "Закрывающий тэг" https://github.com/KogdaGde/zakrivayuschiy-teg-f.git
