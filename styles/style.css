@@ -321,12 +321,10 @@
 .button__icon {
   color: var(--button-text-color, #ffffff);
   mix-blend-mode: difference;
-}
-
-.button__icon {
   block-size: 22px;
   inline-size: 22px;
 }
+
 
 .like-icon {
   block-size: 36px;
